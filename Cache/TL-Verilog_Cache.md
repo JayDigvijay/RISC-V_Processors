@@ -5,7 +5,7 @@
 * Processor Word Size = 32 bits
 * Instruction Cache = 16 KB Data
 * Data Cache = 8 KB Data
-* Memory: For 32-bit address, with each address location corresponding to 1 Word (32 bits), a maximum of 16 GB Memory is possible.
+* Memory: 4 GB
 
 ## Cache Organization
 
