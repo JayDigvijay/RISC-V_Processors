@@ -17,7 +17,7 @@ Write-through scheme followed, with 4-way Set Assocativity.
 * Total Number of Lines = 512
 * Total Number of Sets = 128
 
-![alt text](https://github.com/JayDigvijay/RISC-V_Processors/blob/master/Cache/Instruction_Cache.PNG?raw=true)
+![alt text](https://github.com/JayDigvijay/RISC-V_Processors/blob/master/Cache/Instr_Cache.PNG?raw=true)
 
 ### Data Cache
 
